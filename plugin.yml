@@ -1,0 +1,10 @@
+name: Gods
+main: me.gotoe11.gods.Main
+version: 1.0 
+api-version: 1.15
+author: gotoe11 
+commands:
+   pledge: 
+      description: pledge to a God. 
+   unpledge:
+      description: unpledge to a God. 
